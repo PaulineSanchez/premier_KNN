@@ -1,12 +1,12 @@
 
 
-## Fichiers à utiliser :
-• `Brief_personnaliteLAB.ipynb`
-• `Test.py` (fourni dans le brief puis modifié par la suite)
-• `Run.ipynb` (fourni dans le brief)
-• `Combined_csv.csv`
-• `Prog_combinaison_csv.py`
-• `Modele_knn.pkl`
+## Fichiers à utiliser :  
+• `Brief_personnaliteLAB.ipynb`  
+• `Test.py` (fourni dans le brief puis modifié par la suite)  
+• `Run.ipynb` (fourni dans le brief)  
+• `Combined_csv.csv`  
+• `Prog_combinaison_csv.py`  
+• `Modele_knn.pkl`  
 
 Le fichier `combined_csv.csv` est un dataset crée à partir de tous les datasets générés par les apprenants. C’est grâce au programme `prog_combinaison_csv.py` que tous les datasets ont pu être combinés dans `combined_csv.csv`.
 Le fichier `brief_personnaliteLAB.ipynb` est un Jupyter Notebook qui va de l’importation des données et des différentes bibliothèques à la sauvegarde du modèle KNN.
